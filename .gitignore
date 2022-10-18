@@ -11,7 +11,7 @@ Weather_Database/config.py
 __pycache__/
 *.py[cod]
 *$py.class
-
+__pycache__/config.cpython-37.pyc
 # C extensions
 *.so
 
